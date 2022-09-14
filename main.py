@@ -15,7 +15,7 @@ lastAnswer = "Máte poslední otázku"
 fa = random.choice(firstAnswer)
 
 answer = int(input(fa))
-# kdyz se predtim zepta jestli jsem muz nebo zena, tak napisu, kdyj jsem zena, jsem preci take clovek
+# kdyz se predtim zepta jestli jsem muz nebo zena, tak napisu, kdyz jsem zena, jsem preci take clovek
 # osetrit ze se zepta dvakrat na stejnou otazku
 
 #
